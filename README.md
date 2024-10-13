@@ -1,4 +1,6 @@
+Using My repo Exercises
+I was testing VSCode wher i added, commit and pushed. 
 
-Update on Exercise Repo by Francis Doran 
+Update by Francis Doran 
 # Exercises
 #
