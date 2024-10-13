@@ -1,4 +1,4 @@
 
-repo for Exercises
+Update on Exercise Repo by Francis Doran 
 # Exercises
 #
